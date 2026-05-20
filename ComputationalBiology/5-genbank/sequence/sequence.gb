@@ -1,0 +1,65 @@
+LOCUS       AY211955                 741 bp    DNA     linear   MAM 24-JUL-2016
+DEFINITION  Didelphis virginiana BRCA1 (BRCA1) gene, partial cds.
+ACCESSION   AY211955
+VERSION     AY211955.1
+KEYWORDS    .
+SOURCE      Didelphis virginiana (North American opossum)
+  ORGANISM  Didelphis virginiana
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Metatheria; Didelphimorphia; Didelphidae; Didelphis.
+REFERENCE   1  (bases 1 to 741)
+  AUTHORS   Ramirez,C.J., Fleming,M.A., Potter,J.D., Ostrander,G.K. and
+            Ostrander,E.A.
+  TITLE     Marsupial BRCA1: conserved regions in mammals and the potential
+            effect of missense changes
+  JOURNAL   Oncogene 23 (9), 1780-1788 (2004)
+   PUBMED   15001988
+REFERENCE   2  (bases 1 to 741)
+  AUTHORS   Ramirez,C.J., Fleming,M.A., Potter,J.D., Ostrander,G.K. and
+            Ostrander,E.A.
+  TITLE     Sequence analysis of marsupial BRCA1: an evolutionary approach to
+            understanding breast cancer
+  JOURNAL   Unpublished
+REFERENCE   3  (bases 1 to 741)
+  AUTHORS   Ramirez,C.J., Fleming,M.A., Potter,J.D., Ostrander,G.K. and
+            Ostrander,E.A.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (06-JAN-2003) Human Biology, Fred Hutchinson Cancer
+            Research Center, 1100 Fairview Ave. N, Seattle, WA 98109, USA
+FEATURES             Location/Qualifiers
+     source          1..741
+                     /organism="Didelphis virginiana"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:9267"
+     gene            <1..>741
+                     /gene="BRCA1"
+     mRNA            <1..>741
+                     /gene="BRCA1"
+                     /product="BRCA1"
+     CDS             <1..>741
+                     /gene="BRCA1"
+                     /note="similar to Homo sapiens BRCA1 gene exon 11"
+                     /codon_start=1
+                     /product="BRCA1"
+                     /protein_id="AAO31745.1"
+                     /translation="VEPCGTDARASSLLPDITSVLPNTDSMNVEKAELCDKSKRPDLA
+                     WSQQISQDESKEKCIAGKTSDAKELHELNAHHLYERQELEEQPECPNYPRGNSQNCLS
+                     GTKLKSIQKVNDWLSKSNDILVSDYSSGRIHEQNAEMDSVLEDGHPDVTDGNSSISGK
+                     TDLVADSTDGAWLHMSERSCSRKAESNNIEDKIFGKTYHRKSVHINLNYVTENLIVGA
+                     VDSDSLIPPEPVKKTRLKRKRKTVSDLQP"
+ORIGIN      
+        1 gtggagccat gtggcacaga tgctcgtgcc agctcattac tgcctgacat caccagtgta
+       61 ttgcctaaca cagacagcat gaatgtagaa aaggctgaac tctgtgataa aagcaaaagg
+      121 cctgatttag catggagcca gcagatcagt caggatgaaa gtaaggaaaa atgtattgct
+      181 gggaagacct cagatgcaaa ggagttacat gagctaaatg cccatcatct gtatgagagg
+      241 caagaactag aagagcagcc agagtgcccc aactacccca gaggaaattc tcaaaactgc
+      301 ttgtctggaa ccaaactgaa aagtattcag aaagttaatg actggttatc caaaagtaat
+      361 gacattttag tctctgatta ctcctctggt aggatccatg aacagaatgc agagatggat
+      421 agtgtcttag aagatgggca tccagatgtt acagatggaa attctagcat ttctgggaag
+      481 actgacttgg tggctgactc caccgatggt gcctggctac atatgtctga aagaagctgc
+      541 tccaggaagg cagagagcaa caatattgaa gacaaaatct tcggcaagac ctaccataga
+      601 aaatcagttc acattaattt gaattatgtg actgaaaact tgattgttgg agctgttgat
+      661 tctgattctt tgatccctcc agagcctgtc aaaaaaaccc ggttaaagcg taaaaggaag
+      721 accgtctctg acctacagcc g
+//
+
