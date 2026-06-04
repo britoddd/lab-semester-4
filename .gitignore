@@ -1,3 +1,4 @@
 NLP/9-word_embedding/dataset/*
 dataset/
 images/
+mnist_train.csv
